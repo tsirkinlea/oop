@@ -7,9 +7,6 @@ class Cars {
  foreach($my_classes as $class){
      echo $class;
  }
-//hello
-//lalalalala
-//from master
 
 
 ?>
